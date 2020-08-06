@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test si and amount",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -s",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
